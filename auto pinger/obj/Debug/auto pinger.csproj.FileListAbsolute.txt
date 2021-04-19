@@ -1,0 +1,10 @@
+c:\users\batuhan.desktop-hgb1ld4\documents\visual studio 2015\Projects\auto pinger\auto pinger\bin\Debug\auto pinger.exe.config
+c:\users\batuhan.desktop-hgb1ld4\documents\visual studio 2015\Projects\auto pinger\auto pinger\bin\Debug\auto pinger.exe
+c:\users\batuhan.desktop-hgb1ld4\documents\visual studio 2015\Projects\auto pinger\auto pinger\bin\Debug\auto pinger.pdb
+c:\users\batuhan.desktop-hgb1ld4\documents\visual studio 2015\Projects\auto pinger\auto pinger\obj\Debug\auto_pinger.Form1.resources
+c:\users\batuhan.desktop-hgb1ld4\documents\visual studio 2015\Projects\auto pinger\auto pinger\obj\Debug\auto_pinger.Properties.Resources.resources
+c:\users\batuhan.desktop-hgb1ld4\documents\visual studio 2015\Projects\auto pinger\auto pinger\obj\Debug\auto pinger.csproj.GenerateResource.Cache
+c:\users\batuhan.desktop-hgb1ld4\documents\visual studio 2015\Projects\auto pinger\auto pinger\obj\Debug\auto pinger.exe
+c:\users\batuhan.desktop-hgb1ld4\documents\visual studio 2015\Projects\auto pinger\auto pinger\obj\Debug\auto pinger.pdb
+C:\Users\Batuhan.DESKTOP-HGB1LD4\Documents\Visual Studio 2015\Projects\auto pinger\auto pinger\obj\Debug\auto pinger.csprojAssemblyReference.cache
+C:\Users\Batuhan.DESKTOP-HGB1LD4\Documents\Visual Studio 2015\Projects\auto pinger\auto pinger\obj\Debug\auto pinger.csproj.CoreCompileInputs.cache
